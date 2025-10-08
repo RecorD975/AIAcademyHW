@@ -22,3 +22,27 @@
 2025-10-06 22:45:48,183 - INFO - quotes - Saved 10 quotes. Next: https://quotes.toscrape.com/page/10/
 2025-10-06 22:45:49,973 - INFO - quotes - Saved 10 quotes. Next: None
 2025-10-06 22:45:50,975 - INFO - quotes - Done. Total quotes: 100
+2025-10-08 19:06:31,462 - INFO - quotes - Start scraping quotes
+2025-10-08 19:06:32,743 - INFO - quotes - Saved 10 quotes. Next: https://quotes.toscrape.com/page/2/
+2025-10-08 19:06:34,637 - INFO - quotes - Saved 10 quotes. Next: https://quotes.toscrape.com/page/3/
+2025-10-08 19:06:36,549 - INFO - quotes - Saved 10 quotes. Next: https://quotes.toscrape.com/page/4/
+2025-10-08 19:06:38,478 - INFO - quotes - Saved 10 quotes. Next: https://quotes.toscrape.com/page/5/
+2025-10-08 19:06:40,398 - INFO - quotes - Saved 10 quotes. Next: https://quotes.toscrape.com/page/6/
+2025-10-08 19:06:42,283 - INFO - quotes - Saved 10 quotes. Next: https://quotes.toscrape.com/page/7/
+2025-10-08 19:06:44,200 - INFO - quotes - Saved 10 quotes. Next: https://quotes.toscrape.com/page/8/
+2025-10-08 19:06:46,129 - INFO - quotes - Saved 10 quotes. Next: https://quotes.toscrape.com/page/9/
+2025-10-08 19:06:48,044 - INFO - quotes - Saved 10 quotes. Next: https://quotes.toscrape.com/page/10/
+2025-10-08 19:06:49,962 - INFO - quotes - Saved 10 quotes. Next: None
+2025-10-08 19:06:50,975 - INFO - quotes - Done. Total quotes: 100
+2025-10-08 20:21:55,904 - WARNING - quotes - Attempt 1: https://liquipedia.net//easportsfc/Main_Page -> HTTPSConnectionPool(host='liquipedia.net', port=443): Max retries exceeded with url: /easportsfc/Main_Page (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000017165018130>, 'Connection to liquipedia.net timed out. (connect timeout=15)'))
+2025-10-08 20:22:14,912 - WARNING - quotes - Attempt 1: https://liquipedia.net//starcraft/Main_Page -> HTTPSConnectionPool(host='liquipedia.net', port=443): Max retries exceeded with url: /starcraft/Main_Page (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000017165018F70>, 'Connection to liquipedia.net timed out. (connect timeout=15)'))
+2025-10-08 20:22:36,609 - WARNING - quotes - Attempt 1: None -> Invalid URL 'None': No scheme supplied. Perhaps you meant https://None?
+2025-10-08 20:22:38,122 - WARNING - quotes - Attempt 2: None -> Invalid URL 'None': No scheme supplied. Perhaps you meant https://None?
+2025-10-08 20:22:41,133 - WARNING - quotes - Attempt 3: None -> Invalid URL 'None': No scheme supplied. Perhaps you meant https://None?
+2025-10-08 20:23:18,060 - WARNING - quotes - Attempt 1: https://liquipedia.net//callofduty/Main_Page -> ('Connection aborted.', ConnectionResetError(10054, 'Удаленный хост принудительно разорвал существующее подключение', None, 10054, None))
+2025-10-08 20:23:20,001 - WARNING - quotes - Attempt 2: https://liquipedia.net//callofduty/Main_Page -> 429 Client Error: Too Many Requests for url: https://liquipedia.net//callofduty/Main_Page
+2025-10-08 20:23:23,435 - WARNING - quotes - Attempt 3: https://liquipedia.net//callofduty/Main_Page -> 429 Client Error: Too Many Requests for url: https://liquipedia.net//callofduty/Main_Page
+2025-10-08 20:27:46,185 - WARNING - quotes - Attempt 1: https://liquipedia.net//overwatch/Main_Page -> HTTPSConnectionPool(host='liquipedia.net', port=443): Max retries exceeded with url: /overwatch/Main_Page (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000171646FE1C0>, 'Connection to liquipedia.net timed out. (connect timeout=15)'))
+2025-10-08 20:28:22,900 - WARNING - quotes - Attempt 1: https://liquipedia.net//sideswipe/Main_Page -> ("Connection broken: ConnectionResetError(10054, 'Удаленный хост принудительно разорвал существующее подключение', None, 10054, None)", ConnectionResetError(10054, 'Удаленный хост принудительно разорвал существующее подключение', None, 10054, None))
+2025-10-08 20:28:24,881 - WARNING - quotes - Attempt 2: https://liquipedia.net//sideswipe/Main_Page -> 429 Client Error: Too Many Requests for url: https://liquipedia.net//sideswipe/Main_Page
+2025-10-08 20:28:28,296 - WARNING - quotes - Attempt 3: https://liquipedia.net//sideswipe/Main_Page -> 429 Client Error: Too Many Requests for url: https://liquipedia.net//sideswipe/Main_Page
