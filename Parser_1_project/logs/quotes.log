@@ -46,3 +46,15 @@
 2025-10-08 20:28:22,900 - WARNING - quotes - Attempt 1: https://liquipedia.net//sideswipe/Main_Page -> ("Connection broken: ConnectionResetError(10054, 'Удаленный хост принудительно разорвал существующее подключение', None, 10054, None)", ConnectionResetError(10054, 'Удаленный хост принудительно разорвал существующее подключение', None, 10054, None))
 2025-10-08 20:28:24,881 - WARNING - quotes - Attempt 2: https://liquipedia.net//sideswipe/Main_Page -> 429 Client Error: Too Many Requests for url: https://liquipedia.net//sideswipe/Main_Page
 2025-10-08 20:28:28,296 - WARNING - quotes - Attempt 3: https://liquipedia.net//sideswipe/Main_Page -> 429 Client Error: Too Many Requests for url: https://liquipedia.net//sideswipe/Main_Page
+2025-10-09 19:12:23,431 - INFO - quotes - Start scraping quotes
+2025-10-09 19:12:24,844 - INFO - quotes - Saved 10 quotes. Next: https://quotes.toscrape.com/page/2/
+2025-10-09 19:12:26,672 - INFO - quotes - Saved 10 quotes. Next: https://quotes.toscrape.com/page/3/
+2025-10-09 19:12:28,497 - INFO - quotes - Saved 10 quotes. Next: https://quotes.toscrape.com/page/4/
+2025-10-09 19:12:30,292 - INFO - quotes - Saved 10 quotes. Next: https://quotes.toscrape.com/page/5/
+2025-10-09 19:12:32,116 - INFO - quotes - Saved 10 quotes. Next: https://quotes.toscrape.com/page/6/
+2025-10-09 19:12:33,946 - INFO - quotes - Saved 10 quotes. Next: https://quotes.toscrape.com/page/7/
+2025-10-09 19:12:35,751 - INFO - quotes - Saved 10 quotes. Next: https://quotes.toscrape.com/page/8/
+2025-10-09 19:12:37,590 - INFO - quotes - Saved 10 quotes. Next: https://quotes.toscrape.com/page/9/
+2025-10-09 19:12:39,421 - INFO - quotes - Saved 10 quotes. Next: https://quotes.toscrape.com/page/10/
+2025-10-09 19:12:41,243 - INFO - quotes - Saved 10 quotes. Next: None
+2025-10-09 19:12:42,246 - INFO - quotes - Done. Total quotes: 100
