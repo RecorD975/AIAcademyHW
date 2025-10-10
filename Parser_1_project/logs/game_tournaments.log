@@ -297,3 +297,26 @@
 2025-10-09 22:06:21,864 - INFO - game_tournaments - Saved Formula 1 info.
 2025-10-09 22:06:31,865 - WARNING - game_tournaments - Attempt 1: None -> Invalid URL 'None': No scheme supplied. Perhaps you meant https://None?
 2025-10-09 22:06:43,869 - WARNING - game_tournaments - Attempt 2: None -> Invalid URL 'None': No scheme supplied. Perhaps you meant https://None?
+2025-10-10 19:01:11,827 - INFO - game_tournaments - Saved Dota 2 info.
+2025-10-10 19:01:22,656 - INFO - game_tournaments - Saved Counter-Strike info.
+2025-10-10 19:01:33,178 - INFO - game_tournaments - Saved VALORANT info.
+2025-10-10 19:01:43,663 - INFO - game_tournaments - Saved Mobile Legends info.
+2025-10-10 19:01:54,375 - INFO - game_tournaments - Saved League of Legends info.
+2025-10-10 19:02:05,088 - INFO - game_tournaments - Saved Rocket League info.
+2025-10-10 19:02:15,677 - INFO - game_tournaments - Saved Apex Legends info.
+2025-10-10 19:02:26,415 - INFO - game_tournaments - Saved Overwatch info.
+2025-10-10 19:02:37,506 - INFO - game_tournaments - Saved PUBG Mobile info.
+2025-10-10 19:02:48,068 - INFO - game_tournaments - Saved Rainbow Six info.
+2025-10-10 19:02:58,535 - INFO - game_tournaments - Saved Fighting Games info.
+2025-10-10 19:03:09,070 - INFO - game_tournaments - Saved StarCraft II info.
+2025-10-10 19:03:19,935 - INFO - game_tournaments - Saved PUBG info.
+2025-10-10 19:03:30,630 - INFO - game_tournaments - Saved Age of Empires info.
+2025-10-10 19:03:41,247 - INFO - game_tournaments - Saved Honor of Kings info.
+2025-10-10 19:03:51,736 - INFO - game_tournaments - Saved Smash info.
+2025-10-10 19:04:02,256 - INFO - game_tournaments - Saved Call of Duty info.
+2025-10-10 19:04:12,765 - INFO - game_tournaments - Saved Brawl Stars info.
+2025-10-10 19:04:23,532 - INFO - game_tournaments - Saved Warcraft info.
+2025-10-10 19:04:34,042 - INFO - game_tournaments - Saved World of Tanks info.
+2025-10-10 19:04:44,537 - INFO - game_tournaments - Saved EA SPORTS FC info.
+2025-10-10 19:04:55,017 - INFO - game_tournaments - Saved StarCraft info.
+2025-10-10 19:05:06,774 - INFO - game_tournaments - Saved Wild Rift info.
